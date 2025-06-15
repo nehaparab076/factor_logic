@@ -1,0 +1,10 @@
+
+public class factormain
+{
+	public static void main(String[] args)
+ {
+		logic lobj= new logic();
+		lobj.Factor();
+
+	}
+ }
